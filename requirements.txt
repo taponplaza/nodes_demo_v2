@@ -1,0 +1,7 @@
+Flask==2.2.1
+Flask-Login==0.6.2
+Flask-Session==0.4.0
+Flask-SocketIO
+MarkupSafe==2.1.1
+python-engineio
+python-socketio

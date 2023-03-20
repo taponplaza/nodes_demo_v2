@@ -1,0 +1,27 @@
+body {
+    font: 10px sans-serif;
+  }
+  
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .line {
+    stroke: black;
+    fill: none;
+    stroke-width: 0.75px;
+  }
+  
+  .line.line {
+    stroke: steelblue;
+  }
+  
+  
+  .overlay {
+    fill: none;
+    pointer-events: all;
+  }
+  
